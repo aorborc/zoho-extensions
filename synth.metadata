@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "git": {
+        "name": ".",
+        "remote": "https://github.com/googleapis/google-api-nodejs-client.git",
+        "sha": "5c6826a1f5219e5e8b103035f69816be7b0902e6"
+      }
+    },
+    {
+      "git": {
+        "name": "synthtool",
+        "remote": "https://github.com/googleapis/synthtool.git",
+        "sha": "5605f38f153e7627ba4441a2c5181060b664d224"
+      }
+    }
+  ]
+}
